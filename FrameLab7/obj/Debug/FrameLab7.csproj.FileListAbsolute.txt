@@ -1,0 +1,10 @@
+D:\Users\drall\source\repos\FrameLab7\bin\Debug\FrameLab7.exe.config
+D:\Users\drall\source\repos\FrameLab7\bin\Debug\FrameLab7.exe
+D:\Users\drall\source\repos\FrameLab7\bin\Debug\FrameLab7.pdb
+D:\Users\drall\source\repos\FrameLab7\obj\Debug\FrameLab7.csproj.AssemblyReference.cache
+D:\Users\drall\source\repos\FrameLab7\obj\Debug\FrameLab7.csproj.SuggestedBindingRedirects.cache
+D:\Users\drall\source\repos\FrameLab7\obj\Debug\FrameLab7.Form1.resources
+D:\Users\drall\source\repos\FrameLab7\obj\Debug\FrameLab7.csproj.GenerateResource.cache
+D:\Users\drall\source\repos\FrameLab7\obj\Debug\FrameLab7.csproj.CoreCompileInputs.cache
+D:\Users\drall\source\repos\FrameLab7\obj\Debug\FrameLab7.exe
+D:\Users\drall\source\repos\FrameLab7\obj\Debug\FrameLab7.pdb
