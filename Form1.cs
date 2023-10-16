@@ -21,5 +21,23 @@ namespace FrameLab7
         {
 
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form2 Form2 = new Form2();
+            Form2.Show();
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Form3 Form3 = new Form3();
+            Form3.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Form4 Form4 = new Form4();
+            Form4.Show();
+        }
     }
 }
